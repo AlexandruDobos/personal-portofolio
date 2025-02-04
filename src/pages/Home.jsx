@@ -59,22 +59,25 @@ function Home() {
               </motion.span>
             ))}
           </motion.h1>
-          <motion.p 
+          <motion.p
             className="mt-4 text-lg text-center text-gray-600"
             initial={{ opacity: 0, x: -50 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            Junior Backend Developer | React & Spring Boot Enthusiast | Problem Solver
+            Java Software Engineer | React & Spring Boot Enthusiast | Problem Solver
           </motion.p>
-          <motion.p 
+          <motion.p
             className="mt-2 text-gray-600"
             initial={{ opacity: 0, x: 50 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            Passionate about software development, I specialize in backend engineering using Java, Spring Boot, and Express.js.
-            I also have experience with frontend technologies like React and React Native, and I love building scalable and efficient applications.
+            I'm a passionate Java Software Engineer with a strong focus on clean code, scalable architectures, and microservices development. With hands-on experience in Java, Spring Boot, RESTful APIs, Docker, and RabbitMQ, I specialize in designing and optimizing backend systems that power high-performance applications.
+
+            My expertise includes building robust microservices, enhancing database efficiency with Hibernate/JPA, and ensuring system stability through performance monitoring. I thrive in Agile environments, contributing to cutting-edge projects while continuously upskilling with the latest technologies.
+
+            Let's connect and build something amazing together!
           </motion.p>
           {/* <button className="mt-6 px-6 py-2 bg-blue-500 text-white rounded ">Explore Portfolio</button> */}
         </div>
