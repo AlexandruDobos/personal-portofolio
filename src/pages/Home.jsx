@@ -65,7 +65,7 @@ function Home() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            Java Software Engineer | React & Spring Boot Enthusiast | Problem Solver
+            Software Engineer | React & Spring Boot Enthusiast | Problem Solver
           </motion.p>
           <motion.p
             className="mt-2 text-gray-600"
@@ -73,7 +73,7 @@ function Home() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 1 }}
           >
-            I'm a passionate Java Software Engineer with a strong focus on clean code, scalable architectures, and microservices development. With hands-on experience in Java, Spring Boot, RESTful APIs, Docker, and RabbitMQ, I specialize in designing and optimizing backend systems that power high-performance applications.
+            I'm a passionate Software Engineer with a strong focus on clean code, scalable architectures, and microservices development. With hands-on experience in Java, Spring Boot, RESTful APIs, Docker, and RabbitMQ, I specialize in designing and optimizing backend systems that power high-performance applications.
 
             My expertise includes building robust microservices, enhancing database efficiency with Hibernate/JPA, and ensuring system stability through performance monitoring. I thrive in Agile environments, contributing to cutting-edge projects while continuously upskilling with the latest technologies.
 
